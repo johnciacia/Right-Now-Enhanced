@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Right Now Enhanced
-	Plugin URI: http://wordpress.org/extend/plugins/health-check/
+	Plugin URI: https://github.com/johnciacia/Right-Now-Enhanced
 	Description: Display custom post types in the "Right Now" widget.
 	Author: John Ciacia
 	Version: 1.0
