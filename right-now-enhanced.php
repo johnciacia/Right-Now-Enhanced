@@ -4,7 +4,7 @@ Plugin Name: Right Now Enhanced
 Plugin URI: https://github.com/johnciacia/Right-Now-Enhanced
 Description: Display custom post types in the "Right Now" widget.
 Author: John Ciacia
-Version: 1.0
+Version: 1.1
 Author URI: http://www.johnciacia.com
 
 Copyright 2012  John Ciacia  (email : john@johnciacia.com)
